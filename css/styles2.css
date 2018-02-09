@@ -6,16 +6,18 @@ h2 {
   color: green;
   font-style: italic;
   text-align: center;
-  font-family: monospace;
+	font-family: fantasy;
 }
 p {
   font-family: sans-serif;
   font-style: oblique;
-  font-family: cursive;
 }
 ol {
   line-height: 40px;
+	font-family: cursive;
+	font-style: normal;
+	font-stretch: semi-expanded;
 }
 body {
-  background-color: greenyellow;
+  background-color: chocolate;
 }
