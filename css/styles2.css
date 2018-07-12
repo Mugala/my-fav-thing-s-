@@ -16,8 +16,12 @@ ol {
   line-height: 40px;
 	font-family: cursive;
 	font-style: normal;
-	font-stretch: semi-expanded;
 }
 body {
-  background-color: chocolate;
+  background-color: burlywood;
+}
+
+img {
+  height: 500px;
+  width: 800px;
 }
